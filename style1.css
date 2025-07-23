@@ -1,0 +1,77 @@
+.navbar{
+   background-color: cadetblue;
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.name{
+    background-color: rgb(253, 232, 140);
+    height: 30px;
+    width: 80px;
+    border-radius: 2px;
+    border: 1.5px solid black;
+    }
+.name1{
+    height: 30px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.name2{
+    padding: 10px;
+    margin: 10px;
+}
+
+.name3{
+    padding: 10px;
+    margin: 10px;
+}
+
+#image{
+    width: 70px;
+    height: 70px;
+    border-radius: 100px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.Design{
+    display: flex;
+    flex-direction: row;
+}
+
+.class{
+    background-color: rgb(135, 239, 243);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    
+}
+.subject{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    width: 80px;
+    display: inline-block;
+}
+
+.subject1{
+    padding: 10px;
+    margin: 10px;
+}
+.subject2{
+    padding: 10px;
+    margin: 10px;
+}
+.subject3{
+    padding: 10px;
+    margin: 10px;
+}
+
+#Object{
+    display: flex;
+    flex-direction: row;
+}

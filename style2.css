@@ -1,0 +1,45 @@
+.class{
+    background-color: rgb(135, 239, 243);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    font: bold;
+}
+.subject{
+    background-color: rgb(143, 233, 255);
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+    font: bold;
+    font-size: 14px;
+}
+
+.subject1{
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 10px;
+}
+.subject2{
+    padding: 10px;
+    margin: 10px;
+}
+.subject3{
+    padding: 10px;
+    margin: 10px;
+}
+.subject4{
+    padding: 10px;
+    margin: 10px;
+}
+
+#Object{
+    display: flex;
+    flex-direction: row;
+}
+.p{
+    background-color: rgb(239, 161, 255);
+    
+}
